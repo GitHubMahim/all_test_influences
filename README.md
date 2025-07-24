@@ -1,4 +1,4 @@
-# all_test_influences
+# All_test_influences
 Visualizes the influence of training data over the whole training data.
 
 Interactive Influence Visualization Tool
