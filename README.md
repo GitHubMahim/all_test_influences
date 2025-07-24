@@ -3,7 +3,7 @@ Visualizes the influence of training data over the whole training data.
 
 Interactive Influence Visualization Tool
 
-## Usage:
+## Usage 1 (all test influences):
 
 1. Clone the project and cd into the folder.
 
@@ -29,4 +29,14 @@ Make sure the data file is in the root directory.
 
 ```bash
 python plot_all_influences.py
+```
+
+## Usage 2 (influence of test index 15533 over all timestamps):
+
+1. Run the python script.
+
+The script is hard coded for index 15533 but can be easily chagned.
+
+```bash
+python plot_influence_over_time.py
 ```
